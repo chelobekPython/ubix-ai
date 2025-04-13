@@ -7,4 +7,4 @@ After creating “ubix” we will be making our api and the ability to pre-train
 
 Our team consists of a HUGE amount of people (1 person).
 
-In this repository you will see the application files of our ii because some people may have doubts about the security of our ii, which will connect to camera devices, your api and much more.
+In this repository you will see the application files of our AI because some people may have doubts about the security of our AI, which will connect to camera devices, your api and much more.
